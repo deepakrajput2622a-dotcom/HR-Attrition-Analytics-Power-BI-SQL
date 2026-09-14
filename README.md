@@ -20,7 +20,7 @@ But not all attrition risk is equal. This project answers a key HR question:
 
 ## SQL Analysis
 All SQL queries used for the analysis are available here:
-[View SQL Queries](SQL/)
+[View SQL Queries](SQL/https://github.com/deepakrajput2622a-dotcom/HR-Attrition-Analytics-Power-BI-SQL/blob/main/HR%20Attrition%20SQL%20Queries%20data.sql)
 
 ## Dashboard
 ### HR Attrition Overview
