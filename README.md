@@ -18,3 +18,6 @@ But not all attrition risk is equal. This project answers a key HR question:
  - High Risk Segment	Employees matching the risk profile: Overtime = Yes + Salary Band = Low/Medium + Tenure = 0–2 yrs (150 employees) — this is a custom-defined segment, not a standard field
  - Avg Monthly Income	Average monthly salary across all employees ($5.57K) — used as context to compare against attrition trends
 
+## Dashboard
+screenshots/
+https://github.com/deepakrajput2622a-dotcom/HR-Attrition-Analytics-Power-BI-SQL/blob/main/HR%20Attrition%20dashboard%20overview.png
