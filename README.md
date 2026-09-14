@@ -19,5 +19,5 @@ But not all attrition risk is equal. This project answers a key HR question:
  - Avg Monthly Income	Average monthly salary across all employees ($5.57K) — used as context to compare against attrition trends
 
 ## Dashboard
-screenshots/
-https://github.com/deepakrajput2622a-dotcom/HR-Attrition-Analytics-Power-BI-SQL/blob/main/HR%20Attrition%20dashboard%20overview.png
+### HR Attrition Overview
+! [HR Attrition Overview](screenshorts/https://github.com/deepakrajput2622a-dotcom/HR-Attrition-Analytics-Power-BI-SQL/blob/main/HR%20Attrition%20dashboard%20overview.png)
