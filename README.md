@@ -22,3 +22,5 @@ But not all attrition risk is equal. This project answers a key HR question:
 ### HR Attrition Overview
 ![HR Attrition Overview](
 https://github.com/deepakrajput2622a-dotcom/HR-Attrition-Analytics-Power-BI-SQL/blob/main/HR%20Attrition%20dashboard%20overview.png)
+
+
